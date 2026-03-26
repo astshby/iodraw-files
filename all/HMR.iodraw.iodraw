@@ -32,10 +32,13 @@
           <mxGeometry x="103.75" y="228.75" width="24" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="298.89" y="226.25" width="81.11" height="33.75" as="geometry" />
+          <mxGeometry x="280" y="226.25" width="81.11" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-14" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="298.89" y="271.25" width="81.11" height="33.75" as="geometry" />
+          <mxGeometry x="280" y="271.25" width="81.11" height="33.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-15" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Camera&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
