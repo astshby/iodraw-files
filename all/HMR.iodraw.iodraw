@@ -208,7 +208,10 @@
           <mxGeometry x="841.19" y="440" width="176.15" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-115" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Garamond&quot;&gt;Generate Rotation Matrix&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="848.4" y="191.53" width="154.4" height="30" as="geometry" />
+          <mxGeometry x="848.4" y="180" width="154.4" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-116" value="Calculate Vertex Centroid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
