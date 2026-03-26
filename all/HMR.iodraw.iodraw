@@ -134,7 +134,7 @@
           <mxGeometry x="510" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-79" value="&lt;p class=&quot;MsoNormal&quot;&gt;$$L=λ({L_{repro}}+\mathbb{I}{L_{3D}})+{L_{adv}}$$&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="576.41" y="470" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
