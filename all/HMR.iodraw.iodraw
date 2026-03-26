@@ -112,8 +112,8 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-60" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;GAN block&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="83.63" y="440" width="64.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Garamond; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Regressor&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="90" height="40" as="geometry" />
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-62" value="&lt;span style=&quot;&quot; data-path-to-node=&quot;20,1,0,1&quot; data-index-in-node=&quot;16&quot;&gt;Regressor&lt;/span&gt;&lt;span class=&quot;citation-39&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;fontStyle=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="309.44" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
