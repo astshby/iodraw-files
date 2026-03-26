@@ -83,7 +83,7 @@
           <mxGeometry x="560" y="253.75" width="60.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-43" value="3D Mesh $$M$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="617.3199999999999" y="105.53999999999999" width="60" height="30" as="geometry" />
+          <mxGeometry x="617.32" y="105.54" width="112.68" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
