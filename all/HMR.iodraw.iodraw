@@ -222,8 +222,8 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-119" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Garamond&quot;&gt;Translate Back to Original Centroid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="392.02" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-120" value="Execute Mesh Rendering" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="220" width="170" height="40" as="geometry" />
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-120" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Garamond&quot;&gt;Execute Mesh Rendering&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="445" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
