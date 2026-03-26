@@ -160,12 +160,6 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-92" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NWqwmqRwdyuiPgIAzSC2-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-93" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="NWqwmqRwdyuiPgIAzSC2-91">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-94" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NWqwmqRwdyuiPgIAzSC2-91">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
