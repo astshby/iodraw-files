@@ -59,7 +59,7 @@
           <mxGeometry x="301.11" y="121.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="486.56" y="203.75" width="76.87" height="76.87" as="geometry" />
+          <mxGeometry x="680" y="340" width="76.87" height="76.87" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-27" value="$$\theta, \beta$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="215" width="60" height="30" as="geometry" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.672;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NWqwmqRwdyuiPgIAzSC2-25" target="NWqwmqRwdyuiPgIAzSC2-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-34" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#cce5ff;strokeColor=#064eb1;" vertex="1" parent="1">
+          <mxGeometry x="530.9" y="465.35" width="74.43" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
