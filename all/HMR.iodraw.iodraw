@@ -56,7 +56,7 @@
           <mxGeometry x="355" y="185" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-22" value="$$\Theta = \{ \theta, \beta, R, t, s \}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="459.44" y="183.13" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="181.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
