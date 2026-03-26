@@ -82,9 +82,6 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-41" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;rotation=30;arrowWidth=0.2681084439750407;arrowSize=0.28825821761984305;" vertex="1" parent="1">
           <mxGeometry x="560" y="253.75" width="60.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-42" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="280" width="80" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
