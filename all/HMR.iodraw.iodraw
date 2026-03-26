@@ -97,7 +97,7 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-50" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;rotation=-35;" vertex="1" parent="1">
           <mxGeometry x="560" y="206.25" width="60.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-53" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$$Real\ Parameter\\(\beta_{real},\theta_{real})$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-53" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$$Real\ Parameter\\\(\beta_{real},\theta_{real})$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265.63" y="515.23" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
