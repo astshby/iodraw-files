@@ -225,6 +225,9 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-120" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Garamond&quot;&gt;Execute Mesh Rendering&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="862.94" y="445" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-121" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="238.75" width="27.75" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
