@@ -41,7 +41,7 @@
           <mxGeometry x="290.55" y="181.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-16" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Shape&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290.55" y="228.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-17" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Pose&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290.55" y="271.25" width="60" height="30" as="geometry" />
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-102" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#BDD7EE;strokeColor=#064eb1;" vertex="1" parent="1">
-          <mxGeometry x="824.93" y="88.73" width="201.34" height="191.25" as="geometry" />
+          <mxGeometry x="773.06" y="140.6" width="305.07" height="191.25" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-104" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;visualization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="895.6" y="91.25" width="60" height="30" as="geometry" />
