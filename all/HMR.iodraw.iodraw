@@ -65,12 +65,7 @@
           <mxGeometry x="425" y="173.98" width="60.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-34" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#BDD7EE;strokeColor=#064eb1;" vertex="1" parent="1">
-          <mxGeometry x="492.27" y="155.69" width="70" height="61.02" as="geometry" />
-        </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NWqwmqRwdyuiPgIAzSC2-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="162.21739130434787" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="487.25" y="154" width="64.51" height="61.02" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-35" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;SMPL&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Layer&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="162.10999999999999" width="50" height="42.5" as="geometry" />
