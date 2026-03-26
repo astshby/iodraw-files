@@ -118,8 +118,8 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-65" value="&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;（4 sub-discriminators)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="251.23" y="430" width="179.48" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-74" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=5.37;arrowHead=43;dx2=30.7;direction=east;flipH=1;fillColor=#1BA1E2;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="398.19" y="275.55" width="90" height="120" as="geometry" />
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-74" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=5.37;arrowHead=43;dx2=14.73;direction=east;flipH=1;fillColor=#1BA1E2;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="275.55" width="58.19" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-75" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=3.82;dx=30.07;notch=0;arrowHead=48;rounded=1;flipH=0;flipV=1;rotation=90;direction=west;fillColor=#1BA1E2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="281.09000000000003" y="480" width="95.13" height="80" as="geometry" />
