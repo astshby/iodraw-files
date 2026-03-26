@@ -121,7 +121,7 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-65" value="&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;（4 sub-discriminators)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="251.23" y="430" width="179.48" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-66" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-66" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="424.51" y="283.47" width="73.52" height="113.75" as="geometry" />
         </mxCell>
       </root>
