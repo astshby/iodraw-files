@@ -148,6 +148,9 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-87" value="&lt;b style=&quot;font-family: Garamond;&quot;&gt;Project Operation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="486.85" y="246.25" width="126.67" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-89" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=3.82;dx=35.87;notch=0;arrowHead=48;rounded=1;flipH=0;flipV=1;rotation=90;direction=west;fillColor=#1BA1E2;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="95.13" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
