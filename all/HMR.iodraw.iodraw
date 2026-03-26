@@ -157,7 +157,7 @@
             <mxPoint x="613.52" y="493.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-92" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NWqwmqRwdyuiPgIAzSC2-91">
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-92" value="Loss function" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NWqwmqRwdyuiPgIAzSC2-91">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-14" y="19" as="offset" />
           </mxGeometry>
