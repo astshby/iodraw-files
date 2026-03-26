@@ -157,14 +157,6 @@
             <mxPoint x="613.52" y="493.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-92" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NWqwmqRwdyuiPgIAzSC2-91">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-95" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWqwmqRwdyuiPgIAzSC2-91">
-          <mxGeometry x="0.036" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
