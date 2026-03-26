@@ -147,7 +147,7 @@
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-92" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;Loss function&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NWqwmqRwdyuiPgIAzSC2-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="223" y="-24" as="offset" />
+            <mxPoint x="181" y="46" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-98" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NWqwmqRwdyuiPgIAzSC2-45">
