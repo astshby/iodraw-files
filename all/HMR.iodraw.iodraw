@@ -97,7 +97,7 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-50" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;rotation=-35;" vertex="1" parent="1">
           <mxGeometry x="560" y="206.25" width="60.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-51" value="$$Real Parameters$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="259.75" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
