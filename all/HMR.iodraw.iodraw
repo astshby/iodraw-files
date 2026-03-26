@@ -98,7 +98,7 @@
           <mxGeometry x="186.42000000000002" y="308.13" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-60" value="&lt;font size=&quot;1&quot; face=&quot;Garamond&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;GAN block&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180.17000000000002" y="450" width="82" height="30" as="geometry" />
+          <mxGeometry x="169.17000000000002" y="445" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-62" value="&lt;span style=&quot;&quot; data-path-to-node=&quot;20,1,0,1&quot; data-index-in-node=&quot;16&quot;&gt;Discriminator&lt;/span&gt;&lt;span class=&quot;citation-39&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;fontStyle=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="340.1" y="370" width="100" height="30" as="geometry" />
