@@ -98,7 +98,7 @@
           <mxGeometry x="560" y="206.25" width="60.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-51" value="$$Real\ Parameter\ (\beta_{real},\theta_{real})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="259.75" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="309.44" y="515.23" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
