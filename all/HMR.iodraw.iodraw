@@ -58,6 +58,11 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-22" value="$$\Theta = \{ \theta, \beta, R, t, s \}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="301.11" y="121.25" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=22;exitDy=7;exitPerimeter=0;" edge="1" parent="1" source="NWqwmqRwdyuiPgIAzSC2-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="670" y="320" width="55" height="20" as="geometry" />
         </mxCell>
@@ -65,10 +70,10 @@
           <mxGeometry x="560" y="198.75" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-27" value="$$\theta, \beta$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="211.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="60.25" height="20" as="geometry" />
+          <mxGeometry x="425" y="233.75" width="60.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
