@@ -11,13 +11,10 @@
           <mxGeometry x="37.75" y="170" width="66" height="135" as="geometry" />
         </mxCell>
         <mxCell id="RpHMC4aRtFuZDvjSGocV-30" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#cce5ff;strokeColor=#064eb1;" parent="1" vertex="1">
-          <mxGeometry x="103.75" y="202.5" width="120" height="67.5" as="geometry" />
+          <mxGeometry x="103.75" y="203.75" width="120" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="RpHMC4aRtFuZDvjSGocV-32" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Encoded&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Oq-XYuAuNdxwzyBZYonM&quot;&gt;&lt;b&gt;(ResNet50)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="133.75" y="215" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpHMC4aRtFuZDvjSGocV-35" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="199.75" y="220" width="24" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RpHMC4aRtFuZDvjSGocV-37" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#cce5ff;strokeColor=#064eb1;" parent="1" vertex="1">
           <mxGeometry x="199.75" y="220" width="93.75" height="42.5" as="geometry" />
