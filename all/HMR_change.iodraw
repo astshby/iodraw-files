@@ -37,10 +37,10 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-15" value="Camera" style="text;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="336.97" y="181.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-16" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Shape&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-16" value="Shape" style="text;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="336.97" y="226.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-17" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;b&gt;Pose&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-17" value="Pose" style="text;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="336.97" y="271.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-18" value="$$\beta$$" style="text;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-58" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="368.96000000000004" y="318.08" width="53.68" height="37.52" as="geometry" />
         </mxCell>
-        <mxCell id="NWqwmqRwdyuiPgIAzSC2-59" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$Predict\&amp;nbsp; Parameters\ (\beta_{real},\theta_{real})$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NWqwmqRwdyuiPgIAzSC2-59" value="$$Predict\  Parameters\ (\beta_{real},\theta_{real})$$" style="text;" parent="1" vertex="1">
           <mxGeometry x="186.42000000000002" y="308.13" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NWqwmqRwdyuiPgIAzSC2-60" value="&lt;font size=&quot;1&quot; face=&quot;Garamond&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;GAN block&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
