@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_pP0cuFBjpKAKhJdyKPB-6" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 12px;&quot;&gt;Per-joint Affine Transformation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="-150" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
