@@ -19,7 +19,7 @@
         <mxCell id="_pP0cuFBjpKAKhJdyKPB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_pP0cuFBjpKAKhJdyKPB-2" target="_pP0cuFBjpKAKhJdyKPB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_pP0cuFBjpKAKhJdyKPB-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_pP0cuFBjpKAKhJdyKPB-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;Per-joint Affine Transformation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-200" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
