@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;mso-bidi-font-size:&#xa;10.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:#1F1F1F;mso-ansi-language:&#xa;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;img width=&quot;313&quot; height=&quot;231&quot; src=&quot;file:///C:/Users/LENOVO/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png&quot;&gt;&lt;/span&gt;" link="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;mso-bidi-font-size:&#xa;10.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:#1F1F1F;mso-ansi-language:&#xa;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;img width=&quot;313&quot; height=&quot;231&quot; src=&quot;file:///C:/Users/LENOVO/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png&quot;&gt;&lt;/span&gt;" id="PU24TX-kEjOAnsX5d0YZ-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="210" y="260" width="350" height="260" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
