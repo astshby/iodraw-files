@@ -163,7 +163,7 @@
           <mxGeometry x="670" y="140" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-101" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="100" width="143" height="30" as="geometry" />
+          <mxGeometry x="670" y="80" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-102" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
           <mxGeometry x="1010" y="50" width="143" height="30" as="geometry" />
@@ -246,7 +246,7 @@
           <mxGeometry x="681.5" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-152" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;叉指电极/阵列制备&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="310" width="140" height="40" as="geometry" />
+          <mxGeometry x="681.5" y="200" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
