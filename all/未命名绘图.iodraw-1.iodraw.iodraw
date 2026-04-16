@@ -40,15 +40,6 @@
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-40" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
           <mxGeometry x="130" y="190" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W0EMaGXRp3P3yLiqdpWm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0EMaGXRp3P3yLiqdpWm-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="435" y="240" />
-              <mxPoint x="361" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-41" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
           <mxGeometry x="350" y="190" width="170" height="30" as="geometry" />
         </mxCell>
