@@ -92,8 +92,8 @@
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W0EMaGXRp3P3yLiqdpWm-54" target="W0EMaGXRp3P3yLiqdpWm-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W0EMaGXRp3P3yLiqdpWm-54" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;择优选择异质结制备&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
-          <mxGeometry x="262.5" y="425" width="120" height="30" as="geometry" />
+        <mxCell id="W0EMaGXRp3P3yLiqdpWm-54" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-58" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
           <mxGeometry x="160" y="470" width="80" height="30" as="geometry" />
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-136" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;柔性器件封装&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W0EMaGXRp3P3yLiqdpWm-137" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;择优选择异质结制备&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
