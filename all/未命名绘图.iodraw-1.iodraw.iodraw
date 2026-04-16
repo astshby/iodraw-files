@@ -12,6 +12,11 @@
             <mxPoint x="210" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W0EMaGXRp3P3yLiqdpWm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0EMaGXRp3P3yLiqdpWm-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-2" value="厚Al/Al量子点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="65" width="110" height="30" as="geometry" />
         </mxCell>
