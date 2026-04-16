@@ -7,6 +7,10 @@
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0EMaGXRp3P3yLiqdpWm-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="120" />
+              <mxPoint x="201" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0EMaGXRp3P3yLiqdpWm-1">
@@ -15,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
-          <mxGeometry x="200" y="60" width="170" height="40" as="geometry" />
+          <mxGeometry x="150" y="60" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-2" value="厚Al/Al量子点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="110" height="30" as="geometry" />
