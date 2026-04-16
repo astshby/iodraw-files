@@ -170,8 +170,8 @@
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-102" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
           <mxGeometry x="610" y="60" width="143" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W0EMaGXRp3P3yLiqdpWm-103" value="厚Al/Al量子点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="70" width="60" height="30" as="geometry" />
+        <mxCell id="W0EMaGXRp3P3yLiqdpWm-103" value="&lt;font face=&quot;Verdana&quot;&gt;厚Al/Al量子点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="70" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
