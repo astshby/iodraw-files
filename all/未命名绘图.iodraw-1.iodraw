@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#539ac6;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W0EMaGXRp3P3yLiqdpWm-2" value="厚Al/Al量子点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="55" width="110" height="30" as="geometry" />
+          <mxGeometry x="205" y="50" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
